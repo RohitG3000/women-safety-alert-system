@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f7fa;
+    text-align: center;
+    margin: 0;
+}
+
+h1, h2 {
+    margin-top: 30px;
+}
+
+/* SOS Button */
+.sos-btn {
+    background: red;
+    color: white;
+    font-size: 30px;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.sos-btn:hover {
+    background: darkred;
+}
+
+/* Card container */
+.container {
+    max-width: 700px;
+    margin: auto;
+}
+
+/* Alert card */
+.alert-card {
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Status */
+.status {
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.raised {
+    background: #ff4d4d;
+    color: white;
+}
+
+.resolved {
+    background: #28a745;
+    color: white;
+}
+
+/* Buttons */
+button {
+    padding: 6px 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.resolve-btn {
+    background: #007bff;
+    color: white;
+}
+
+.resolve-btn:hover {
+    background: #0056b3;
+}
