@@ -40,7 +40,7 @@ The project focuses on:
 ## Project Structure
 
 ```text
-DBMS MINI PROJECT/
+women-safety-alert-system/
 │
 ├── backend/
 │   ├── app.py
