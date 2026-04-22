@@ -148,33 +148,23 @@ http://localhost:5500/login.html
 ---
 
 ## Privacy Features
-Minimal data collection
-Event-based location tracking only
-No continuous location monitoring
-Masked user identity on dashboard
-Restricted dashboard access for active sessions
-
----
-
-## Key DBMS Concepts Used
-- Relational Model
-- Foreign Key Constraints
-- Data Integrity
-- Normalization (separating alerts and location logs)
-- SQL Queries (JOIN, INSERT, UPDATE)
-- Transaction Handling
+ - Minimal data collection
+ - Event-based location tracking only
+ - No continuous location monitoring
+ - Masked user identity on dashboard
+ - Restricted dashboard access for active sessions
 
 ---
 
 ## Screenshots
 
-### Login Page
+## Login Page
 ![Login](screenshots/login.png)
 
-### SOS Page
+## SOS Page
 ![SOS](screenshots/sos.png)
 
-### Dashboard
+## Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
 ## Resolved Alert
@@ -192,11 +182,11 @@ Restricted dashboard access for active sessions
 ---
 
 ## Future Enhancements
-- Real authentication system (password-based login)
-- Role-based access (admin/user)
-- SMS or email notifications
-- Live tracking with multiple location updates
-- Map visualization using embedded maps
+ - Real authentication system (password-based login)
+ - Role-based access (admin/user)
+ - SMS or email notifications
+ - Live tracking with multiple location updates
+ - Map visualization using embedded maps
 
 ---
 
