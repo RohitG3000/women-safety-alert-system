@@ -40,10 +40,11 @@ The project focuses on:
 ## Project Structure
 
 ```text
-Women-Safety-Alert-System/
+DBMS MINI PROJECT/
 │
 ├── backend/
 │   ├── app.py
+│   ├── db.py
 │   └── requirements.txt
 │
 ├── frontend/
@@ -52,6 +53,9 @@ Women-Safety-Alert-System/
 │   ├── dashboard.html
 │   ├── script.js
 │   └── style.css
+│
+├── database/
+│   └── schema.sql
 │
 ├── screenshots/
 │   ├── login.png
@@ -62,8 +66,6 @@ Women-Safety-Alert-System/
 │   ├── alerts_table.png
 │   ├── location_log_table.png
 │   └── er_diagram.png
-│
-├── schema.sql
 │
 └── README.md
 ```
